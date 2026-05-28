@@ -96,7 +96,7 @@ class SearchMode(QWidget):
         toolbar.addWidget(self._kind_combo)
 
         self._query_input = QLineEdit()
-        self._query_input.setPlaceholderText("e.g. user:jpuckett11 is:open label:bug")
+        self._query_input.setPlaceholderText("e.g. user:octocat is:open label:bug")
         self._query_input.returnPressed.connect(self._run_search)
         toolbar.addWidget(self._query_input, 1)
 

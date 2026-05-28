@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Linux GitHub desktop app: triage, investigation case management, and org admin"
 readme = "README.md"
 authors = [
-    { name = "jpuckett11", email = "investigations@obsidianwatch.org" }
+    { name = "Obsidian Watch", email = "dev@obsidianwatch.org" }
 ]
 requires-python = ">=3.12"
 dependencies = [

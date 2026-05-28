@@ -48,7 +48,7 @@ Version: ${VERSION}
 Section: vcs
 Priority: optional
 Architecture: amd64
-Maintainer: jpuckett11 <investigations@obsidianwatch.org>
+Maintainer: Obsidian Watch <dev@obsidianwatch.org>
 Depends: libxcb-cursor0, libsecret-1-0
 Description: Linux GitHub desktop client (Triage / Investigation / Admin)
  Triage notifications, run investigations as Discussions-backed cases,

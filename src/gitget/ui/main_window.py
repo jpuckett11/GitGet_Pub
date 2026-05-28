@@ -204,7 +204,7 @@ class MainWindow(QMainWindow):
                 code review, and org administration.
               </p>
               <p style="color:#a094b8; font-size:9pt;">
-                © Obsidian Watch Group · investigations@obsidianwatch.org
+                © Obsidian Watch · dev@obsidianwatch.org
               </p>
             </div>
             """
