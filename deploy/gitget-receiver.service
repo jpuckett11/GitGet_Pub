@@ -1,6 +1,6 @@
 [Unit]
 Description=gitget webhook receiver
-Documentation=https://github.com/jpuckett11/gitget
+Documentation=https://obsidianwatch.org/gitget
 After=network-online.target
 Wants=network-online.target
 
